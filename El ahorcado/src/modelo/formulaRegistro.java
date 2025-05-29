@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-
 import vista.vistaInicial;
             
      public class formulaRegistro extends JFrame {
@@ -92,7 +91,8 @@ import vista.vistaInicial;
         gbc.gridx = 1;
         add(btnCancel, gbc);
 
-       
+
+
     }
 
    
